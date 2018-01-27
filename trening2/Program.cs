@@ -35,7 +35,7 @@ namespace trening2
             //Console.ReadKey();
             //pizza.Reverse();
 
-            //try
+            //tryas
             //{
             //    Skladnik x = new Skladnik("x")
             //}
